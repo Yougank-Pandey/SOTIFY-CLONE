@@ -1,3 +1,3 @@
-# This is Simon Says Game
+#  CSS PROJECT
 
-This game is created By Yougank Pandey. 
+This is a clone of Spotify music app.
